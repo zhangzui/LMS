@@ -1,0 +1,5 @@
+rootProject.name = 'LSM'
+include 'lms-creditUser-api'
+include 'lms-creditUser-impl'
+include 'lms-creditUser-rpc'
+
