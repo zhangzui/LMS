@@ -10,6 +10,6 @@ repositories {
 }
 
 dependencies {
-    compile group: 'api', name: 'lms-traveloka-api', version: 'Gradle'
+    /*compile group: 'api', name: 'lms-traveloka-api', version: 'Gradle'*/
     testCompile group: 'junit', name: 'junit', version: '4.11'
 }

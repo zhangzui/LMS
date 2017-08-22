@@ -1,7 +1,6 @@
 package com.traveloka.creditUser.api.vo.user;
 
-import com.traveloka.creditUser.api.vo.CheckRegisterReqVo;
-import com.traveloka.creditUser.api.vo.UserPayInfo;
+
 
 import java.io.Serializable;
 import java.util.HashMap;
@@ -90,7 +89,7 @@ public class UserRegisterReqVo extends CheckRegisterReqVo implements Serializabl
     /**
      * 支付信息
      */
-    private UserPayInfo userPayInfo;
+    //private UserPayInfo userPayInfo;
 
 //  姓名
     private String Name;
@@ -240,14 +239,14 @@ public class UserRegisterReqVo extends CheckRegisterReqVo implements Serializabl
         this.mail = mail;
     }
 
-    public UserPayInfo getUserPayInfo() {
+    /*public UserPayInfo getUserPayInfo() {
         return userPayInfo;
     }
 
     public void setUserPayInfo(UserPayInfo userPayInfo) {
         this.userPayInfo = userPayInfo;
     }
-
+*/
     public Map<String, String> getExtMap() {
         return extMap;
     }
