@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LSM.iml" filepath="$PROJECT_DIR$/LSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lms-creditUser-api/lms-creditUser-api.iml" filepath="$PROJECT_DIR$/lms-creditUser-api/lms-creditUser-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lms-creditUser-dao/lms-creditUser-dao.iml" filepath="$PROJECT_DIR$/lms-creditUser-dao/lms-creditUser-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lms-creditUser-impl/lms-creditUser-impl.iml" filepath="$PROJECT_DIR$/lms-creditUser-impl/lms-creditUser-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lms-creditUser-rpc/lms-creditUser-rpc.iml" filepath="$PROJECT_DIR$/lms-creditUser-rpc/lms-creditUser-rpc.iml" />
+    </modules>
+  </component>
+</project>

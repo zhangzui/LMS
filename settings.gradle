@@ -2,4 +2,17 @@ rootProject.name = 'LSM'
 include 'lms-creditUser-api'
 include 'lms-creditUser-impl'
 include 'lms-creditUser-rpc'
+include 'lms-creditUser-dao'
+
+/*def includeSubdirectories() {
+    def currentDir = rootProject.projectDir;
+    currentDir.eachDirRecurse { subDir ->
+        if (file("$subDir/build.gradle").exists())
+            include "${subDir.path.substring(currentDir.path.length()).replace(File.separator, ":")}"
+    }
+}
+includeSubdirectories()*/
+
+
+
 

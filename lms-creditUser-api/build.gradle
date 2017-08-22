@@ -1,4 +1,4 @@
-group 'com.traveloka.creditUser.api'
+group 'api'
 version 'Gradle'
 
 apply plugin: 'java'
@@ -6,7 +6,7 @@ apply plugin: 'java'
 sourceCompatibility = 1.5
 
 repositories {
-    mavenCentral()
+    mavenLocal()
 }
 
 dependencies {
